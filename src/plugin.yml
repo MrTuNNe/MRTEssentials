@@ -1,0 +1,41 @@
+name: MRTEssentials
+main: mrtunne.plugin.main
+author: MrTuNNe
+version: 1.0
+commands:
+   anno:
+      description: Announcement command.
+   gmc:
+      description: GameMode Creative command
+   gms:
+      description: GameMode Survival command
+   day:
+      description: Set world time to 1000
+   sunny:
+      description: Stop the rain.
+   setspawn:
+      description: Set the world spawn.
+   spawn:
+      description: Teleport the player at spawn.
+   report:
+      description: Send an report to all admins/moderators online.
+   a:
+      description: Staff chat.
+   ram:
+      description: See the free ram of the server.
+   cc: 
+      description: Clear the chat of the server.
+   kick:
+      description: Kick player from the server
+   ban:
+      description: Ban a player from the server.
+   unban:
+      description: Unban a player from the server.
+   tp:
+      description: You will be teleported to a player.
+   mute:
+      description: You will mute a player.
+   unmute:
+      description: You will unmute a player.
+      
+    
